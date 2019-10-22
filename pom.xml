@@ -27,10 +27,11 @@
 	</properties>
 
 	<modules>
-        <module>hephaestus-core</module>
-        <module>hephaestus-web</module>
+        	<module>hephaestus-spec</module>
+		<module>hephaestus-core</module>
+        	<module>hephaestus-web</module>
 		<module>hephaestus-utils</module>
-    </modules>
+	</modules>
 
 	<dependencyManagement>
 
